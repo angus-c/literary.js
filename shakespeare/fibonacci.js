@@ -27,5 +27,5 @@ function theSeriesOfFIBONACCI(theSize) {
   //'Tis done, and here's the answer.
   return theResult;
 
-  //[Exuent]
+  //[Exeunt]
 }
