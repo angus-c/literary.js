@@ -3,12 +3,12 @@
 stairs =
   this['stairs'] ||
     {};
-      stairs['0'] = null,
+      stairs['0'] = [],
         stairs['1'] = [
-            1
+            0
               ],
-                stairs['2'] = [ 1, 1
-                                                                              ];
+                stairs['2'] = [ 0, 1
+                                          ],stairs['3']=stairs['2'].concat([1]);
 
 function theSequence (depth)
 {
