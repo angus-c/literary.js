@@ -8,7 +8,7 @@ I dreamt five literary heros wrote a JavaScript util to generate the Fibonacci s
 Then an additional six authors (plus the irrepressible Hemingway) sent me solutions to `factorial(n)`  
 [If Kerouac wrote JavaScript (and Dr Johnson wrote CoffeeScript)](http://blog.anguscroll.com/if-kerouac-wrote-javascript)    
 
-After that I asked five more to solve the happy numbers problem
+After that I asked five more to solve the happy numbers problem. 
 [Salinger, Nabokov and Tupac do JavaScript](http://blog.anguscroll.com/tupac-does-javascript)
 
 See also [my JSConf presentation](https://speakerdeck.com/anguscroll/javascript-is-literature-is-javascript) and feel free to add your own pull requests as the inspiration takes you!
