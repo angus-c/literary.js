@@ -1,5 +1,7 @@
-Authors Writing JavaScript
-==========================
+# Authors Writing JavaScript
+
+## [New Book!](http://anguscroll.com/hemingway)
+
 
 I dreamt five literary heros wrote a JavaScript util to generate the Fibonacci sequence  
 [If Hemingway wrote JavaScript](http://byfat.xxx/if-hemingway-wrote-javascript)
