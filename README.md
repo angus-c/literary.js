@@ -1,6 +1,6 @@
 # Authors Writing JavaScript
 
-## [New Book!](http://anguscroll.com/hemingway)
+## [Now a Book!](http://anguscroll.com/hemingway)
 
 <a href="http://anguscroll.com/hemingway/"><img src="http://media.nostarch.com/sites/default/files/imagecache/product_full/Hemingway_cover-front-FINAL-new.png" width="300px" height="300px"></a>
 
