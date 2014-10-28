@@ -2,15 +2,12 @@
 
 ## [New Book!](http://anguscroll.com/hemingway)
 
+<a href="http://anguscroll.com/hemingway/"><img src="http://media.nostarch.com/sites/default/files/imagecache/product_full/Hemingway_cover-front-FINAL-new.png" width="300px" height="300px"></a>
 
-I dreamt five literary heros wrote a JavaScript util to generate the Fibonacci sequence  
-[If Hemingway wrote JavaScript](http://byfat.xxx/if-hemingway-wrote-javascript)
+Recently I had a dream in which I set homework assignments for Ernest Hemingway and twenty-four other literary luminaries. Each author received one of five tasks--common coding problems, mostly mathematical--which they were to solve using JavaScript.
 
+To my astonishment, after a few days, completed assignments started arriving in my mailbox. Still more remarkable, with the exception of Kafka's accursed effort, they all seemed to work. 
 
-Then an additional six authors (plus the irrepressible Hemingway) sent me solutions to `factorial(n)`  
-[If Kerouac wrote JavaScript (and Dr Johnson wrote CoffeeScript)](http://blog.anguscroll.com/if-kerouac-wrote-javascript)    
-
-After that I asked five more to solve the happy numbers problem.  
-[Salinger, Nabokov and Tupac do JavaScript](http://blog.anguscroll.com/tupac-does-javascript)
+Naturally this was all too good to keep to myself so I've reproduced their solutions in this book. To help put the answers in context, I've written a short biography of each author, and followed their code with a brief explanation of what I think they were up to. As a respite between assignments I've included some poetic interludes: long forgotten odes documenting their author's struggle with everyone's favorite programming language.  
 
 See also [my JSConf presentation](https://speakerdeck.com/anguscroll/javascript-is-literature-is-javascript) and feel free to add your own pull requests as the inspiration takes you!
