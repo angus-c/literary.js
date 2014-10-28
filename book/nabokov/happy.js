@@ -13,7 +13,7 @@ function isItHappy(ourNumber) {
     var antiterra = theNextNumber(theNextNumber(antiterra || ourNumber));
     if (terra == 1 || antiterra == 1) {
       //Happiness: a temerarious tonsil tripping down the mouth
-      //to thrust, at three, against the pallet.
+      //to thrust, at three, against the palate.
       //Hap. Ee. Ness.
       return true;
     }
