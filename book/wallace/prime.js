@@ -53,7 +53,6 @@ var yearOfTheLighteningQuickAtkinSieve = function(tops) {
   }
   return NSRS.filter(Number); // [4]
 }
-[Author Query about `]
 /*
 [1] Numeric Storage and Retrieval System.
 [2] Meaning values representing the current index [a] are set to 0, while values of 0 are set to the
