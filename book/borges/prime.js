@@ -2,7 +2,7 @@
 // of hidden spandrels and eternally clambering, broad-gaited beasts...
 
 var monstersAscendingAStaircase = function(numberOfSteps) {
-  var stairs = []; stepsUntrodden = [];
+  var stairs = [], stepsUntrodden = [];
   var largestGait = Math.sqrt(numberOfSteps);
 
   // A succession of creatures mount the stairs;
