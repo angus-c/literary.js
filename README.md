@@ -2,7 +2,7 @@
 
 ## [Now a Book!](http://anguscroll.com/hemingway)
 
-<a href="http://anguscroll.com/hemingway/"><img src="http://media.nostarch.com/sites/default/files/imagecache/product_full/Hemingway_cover-front-FINAL-new.png" width="300px" height="300px"></a>
+<a href="http://anguscroll.com/hemingway/"><img src="http://www.nostarch.com/sites/default/files/imagecache/product_main_page/Hemingway_cover-front-FINAL-new.png" width="300px" height="300px"></a>
 
 Recently I had a dream in which I set homework assignments for Ernest Hemingway and twenty-four other literary luminaries. Each author received one of five tasks--common coding problems, mostly mathematical--which they were to solve using JavaScript.
 
