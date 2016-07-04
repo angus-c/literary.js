@@ -4,7 +4,7 @@ FACT: some time in 1557, Michelangelo Moribundi, the renowned, bald-headed alche
 function theDaFibonacciCode(numeratiFettucini) {
   // Wide awake, the bleary-eyed Langdon watched as two tall, lissome, number ones
   // with big feet and a type of hat, sidled up to the rounded zero ...
-  var ilInumerati = [0,1,1];
+  var ilInumerati = [0,1,1],
   // while theIntegerThatIncrementsOneByOne morphs eerily into a ... three
   theIntegerThatIncrementsOneByOne = 3,
   // Now the silent ratio that could not be uttered had come to make it right
